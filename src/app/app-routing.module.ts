@@ -8,7 +8,7 @@ import {ContactPageComponent} from "./shared/pages/contact-page/contact-page.com
 const routes: Routes =  [
   // {
   //   path:'',
-  //   component: HomePageComponent
+  //   redirectTo: 'countries'
   // },
   // {
   //   path:'about',
